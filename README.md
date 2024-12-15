@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sreyashi Dey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyashidey&label=Profile%20views&color=0e75b6&style=flat" alt="sreyashidey" /> </p>
 
-- ➡️ Check this out [https://bento.me/sreyashi-dey](https://bento.me/sreyashi-dey)
-
-- ✉️ Reach me out at **sreyadey0506@gmail.com**
-
-- 💻 Fun fact **The first computer programmer was Ada Lovelace—she wrote an algorithm in the 1840s before computers even existed!**
+<h3 align="left">About Me:</h3>
+🎒 A final year student studying CS Engineering. <br>
+🎓 Google WE'22 scholar | AWS AI ML scholar. <br>
+📚 Tech enthusiast exploring software development, data analytics, full stack development, and machine learning, with innovative projects! <br>
+➡️ Check this out [https://bento.me/sreyashi-dey](https://bento.me/sreyashi-dey) <br>
+✉️ Reach me out at **sreyadey0506@gmail.com** <br>
+💻 Fun fact **The first computer programmer was Ada Lovelace—she wrote an algorithm in the 1840s before computers even existed!** <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
