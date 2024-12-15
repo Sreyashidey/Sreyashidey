@@ -32,4 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyashidey&show_icons=true&locale=en&layout=compact" alt="sreyashidey" /></p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/sreyadey?border=0&radius=20)
+
 ![Alt text](https://github.com/Sreyashidey/Files/blob/main/bg.png)
