@@ -6,9 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+enthusiast%2C+Design+thinker;Coffee-fueled+Engineer;Full+time+Yapper)](https://git.io/typing-svg)
 
 <h3 align="left">A Quick Glance :)</h3>
-
-- 🎒 A final year student studying CS Engineering.
-  
+ 
 - 🎓 Google WE'22 scholar | AWS AI ML scholar.
   
 - 📚 Tech enthusiast exploring software development, data analytics, full stack development, and machine learning.
